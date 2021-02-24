@@ -1,0 +1,40 @@
+{
+	"name": "APEX Camera Extension (ACE)",
+	"version": "1.0",
+	"description": "APEX Camera Extension (ACE).\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\nThis plugin is free for use under MIT license.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EApex Camera Extension (ACE) \u003C\/strong\u003E allows user to open Camera and save in APEX collection using this plugin.\u003E \r\n\u003C\/p\u003E\r\n\u003Ch4\u003ECredits\u003C\/h4\u003E\r\nIt wouldn't be possible without the \u003Cstrong\u003ENick's \u003C\/strong\u003E experiment on camera integration with oracle APEX\n Check out the full article \n \u003Ca href=\"https://apexplained.wordpress.com/2016/08/29/html5-camera-integration-in-oracle-apex/\"\u003E HTML5 camera integration in Oracle APEX \u003C\/a\u003E",
+	"keywords": ["APEX Camera Extension (ACE)","CAMERA","CAMERA INTEGRATION"],
+	"homepage": "https://github.com/www-smithchain-com/Apex-Camera-Extension-ACE.git",
+	"bugs": {
+		"url": "https://github.com/www-smithchain-com/Apex-Camera-Extension-ACE/issues",
+		"email": "vikaspandey641@gmail.com"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Vikas Pandey",
+		"email": "vikaspandey641@gmail.com",
+		"url": "https://blogs.ontoorsolutions.com/",
+		"twitter": "smith121266"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/www-smithchain-com/Apex-Camera-Extension-ACE.git"
+	},
+	"oracle": {
+		"versions": ["11.2.0.1", "12.1.0.1","19.0.0.0.0"],
+		 "apex":{
+         "versions":[            
+            "5.1.4",
+            "18.1.0",
+            "19.1.0",
+            "19.2.0",
+			"20.2.0"
+          ],
+			"plugin": {
+				"internalName": "CAM.INT.VIKAS",
+				"type": "dynamic action",
+				"demo": "https://www.ontoorsolutions.com/ords/r/web/555/3",
+				"previewImage": "https://raw.githubusercontent.com/www-smithchain-com/Apex-Camera-Extension-ACE/main/preview.gif"
+			}
+		}
+	}
+}
