@@ -17,3 +17,7 @@ APEX Camera Extension (ACE) will use for to open a camera and capture an image i
 * Save and Run.
 
 [Demo](https://www.ontoorsolutions.com/ords/r/web/555/3)
+
+### About
+twitter: [@Smith121266](https://twitter.com/Smith121266)  
+linkedin: [linkedin.com/in/vikas-pandey-aba223120/](https://www.linkedin.com/in/vikas-pandey-aba223120/)
