@@ -10,7 +10,7 @@ APEX Camera Extension (ACE) will use for to open a camera and capture an image i
 
 * [Download Plugin](https://apex.world).
 * Install this plugin into your application.
-* Create a page page region with button.
+* Create a page region with button.
 * Create a dynamic action on button.
 * Create True action.
 * Choose a region in affected element.
