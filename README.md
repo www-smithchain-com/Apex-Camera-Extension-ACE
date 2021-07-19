@@ -1,6 +1,6 @@
 ### APEX Camera Extension (ACE)
 
-APEX Camera Extension (ACE) will use for to open a camera and capture an image in APEX Collection.
+APEX Camera Extension (ACE) will use for to open a camera and capture an image in APEX Collection. It is also usefull for mobile phone you can easily access front or rare view through this plugin.
 
 ![Preview](https://raw.githubusercontent.com/www-smithchain-com/Apex-Camera-Extension-ACE/main/preview.gif)
 
