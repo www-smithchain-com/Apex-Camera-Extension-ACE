@@ -1,6 +1,6 @@
 {
 	"name": "APEX Camera Extension (ACE)",
-	"version": "1.0",
+	"version": "2.0",
 	"description": "APEX Camera Extension (ACE).\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\nThis plugin is free for use under MIT license.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EAPEX Camera Extension (ACE) plugin \u003C\/strong\u003E allows user to open Camera and and capture an image in APEX Collection.It is also usefull for mobile phone user can easily access front or back camera through this plugin.\u003C\/p\u003E\r\n\u003Ch4\u003ECredits\u003C\/h4\u003E\r\nIt wouldn't be possible without the \u003Cstrong\u003ENick's \u003C\/strong\u003E experiment on camera integration with oracle APEX\n Check out the full article \n \u003Ca href=\"https://apexplained.wordpress.com/2016/08/29/html5-camera-integration-in-oracle-apex/\"\u003E HTML5 camera integration in Oracle APEX \u003C\/a\u003E",
 	"keywords": ["APEX Camera Extension (ACE)","CAMERA","CAMERA INTEGRATION"],
 	"homepage": "https://github.com/www-smithchain-com/Apex-Camera-Extension-ACE.git",
